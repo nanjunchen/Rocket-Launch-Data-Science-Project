@@ -1,4 +1,4 @@
-# Rocket-Launch-Data-Science-Project
+# SpaceX Falcon9 Rocket Launch Outcome Prediction
 ## Purpose of this project: 
   a). Determine the price of each launch; 
   b). Predict if SpaceX will reuse the first stage - meaning successful landing of first stage.
